@@ -1,4 +1,4 @@
-## WordCloud Scripts by Keith Junzhe Wang
+## WordCloud Scripts by Keith Wang Junzhe
 
 ### Prerequisite 需要的library：
 - numpy
