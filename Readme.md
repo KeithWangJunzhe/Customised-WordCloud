@@ -15,8 +15,9 @@ python version: 3.9.13
 - WC_tutorial.ipynb: 词云教程，演示和学习目文件，有注释
 - WC_essential.ipynb：最简化词云出图脚本
 - wordcloud.png 展示图，由WordCloud.ipynb 输出
+![wordcloud](./wordcloud.png)
 - ciyun.png 展示图，由WC_tutorial.ipynb输出
-
+![ciyun](./ciyun.png)
 
 ### Reference
 - Andreas Mueller(2020), wordcloud, avaliable at:amueller.github.io/word_cloud/
