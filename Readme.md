@@ -1,4 +1,4 @@
-## wordCloud Scripts by Keith Junzhe Wang
+## WordCloud Scripts by Keith Junzhe Wang
 
 ### Prerequisite 需要的library：
 - numpy
@@ -14,6 +14,8 @@ python version: 3.9.13
 - WordCloud.ipynb: 词云脚本包含多个组件和注释
 - WC_tutorial.ipynb: 词云教程，演示和学习目文件，有注释
 - WC_essential.ipynb：最简化词云出图脚本
+- wordcloud.png 展示图，由WordCloud.ipynb 输出
+- ciyun.png 展示图，由WC_tutorial.ipynb输出
 
 
 ### Reference
